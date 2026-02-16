@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+env/
+*.pyc
+__pycache__/
+
+# API Keys
+.openai_key
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
